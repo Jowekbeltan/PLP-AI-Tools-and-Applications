@@ -149,7 +149,7 @@ except:
 
 ## 👩‍💻 Author
 
-**Name:** Johnson Ontweka
+**Name:** Johnson .O
 **Course:** AI for Software Engineering
 **Institution:** PLP Academy / JKUAT
 **Year:** 2025
