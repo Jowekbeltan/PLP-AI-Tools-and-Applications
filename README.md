@@ -151,7 +151,7 @@ except:
 
 **Name:** Johnson .O
 **Course:** AI for Software Engineering
-**Institution:** PLP Academy / JKUAT
+**Institution:** PLP Academy 
 **Year:** 2025
 
 ```
